@@ -1,0 +1,16 @@
+{
+  "name": "tp6-ambiente-desarrollo",
+  "version": "1.0.0",
+  "description": "TP6 - Configuracion del Ambiente de Desarrollo - Software II",
+  "main": "app.js",
+  "scripts": {
+    "saludo": "node saludo.js",
+    "datos": "node datos.js",
+    "cartel": "node cartel.js",
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "figlet": "^1.7.0"
+  }
+}
