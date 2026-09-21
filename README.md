@@ -1,21 +1,11 @@
-# Software II — Demos de Clase
+# Software II 💻
 
-Repositorio de trabajo del docente para proyectar en clase la resolución de la **Parte B** de cada TP de Software II, 5° año — Técnico en Programación.
+Repositorio de clases / Software II, 5° año — Técnico en Programación.
 
 **Colegio Técnico Provincial "Olga Bronzovich de Arko"** — Ushuaia, Tierra del Fuego
 **Prof. Nicolás A. Cussi** — Ciclo lectivo 2026 / Secuencia 2027
 
-> Repositorio privado de uso docente. No es material para clonar por los alumnos — cada estudiante arma su propio repositorio a partir del TP7 (Git y control de versiones).
-
 ---
-
-## Qué es esto
-
-Acá voy armando, TP a TP y en vivo durante la clase, el código que resuelve la Parte B de cada trabajo práctico. Sirve como:
-
-- Guía de proyección para mostrar el flujo completo en el aula (Codespaces + tablet).
-- Registro propio de qué se mostró y cómo, TP por TP.
-- Base de código de referencia para revisar antes de corregir entregas.
 
 ## Estructura
 
@@ -38,12 +28,6 @@ software-ii-demos/
 ├── tp11-gestion-proyecto/
 └── tp12-integrador-final/
 ```
-
-## Cómo lo uso en clase
-
-1. Abro este repo en **GitHub Codespaces** desde la tablet (Samsung S9+ con teclado BT, modo DeX).
-2. Proyecto la pantalla y trabajo en vivo dentro de la carpeta del TP correspondiente.
-3. Al cerrar la clase, hago `commit` y `push` de lo avanzado ese día.
 
 ## TPs de la secuencia 2027
 
