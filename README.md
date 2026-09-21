@@ -12,7 +12,7 @@ Repositorio de clases / Software II, 5° año — Técnico en Programación.
 Cada TP tiene su propia carpeta, con su `package.json` y `README.md` propios:
 
 ```
-software-ii-demos/
+software-ii-/
 ├── README.md
 ├── tp6-ambiente-desarrollo/
 │   ├── README.md
@@ -29,7 +29,7 @@ software-ii-demos/
 └── tp12-integrador-final/
 ```
 
-## TPs de la secuencia 2027
+## TPs de la secuencia 
 
 | TP | Contenido |
 |---|---|
